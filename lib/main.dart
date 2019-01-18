@@ -16,8 +16,8 @@ class MyApp extends StatelessWidget {
           title: Text('Flutter Apps'),
         ),
         body: Card(child: Column(children: <Widget>[
-          Image.asset('assets/a.jpg'),
-          Text('Jeearens')
+          Image.asset('assets/food.jpg'),
+          Text('NOMNOM')
         ],),),
       ),
     );
